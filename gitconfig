@@ -1,10 +1,10 @@
 [user]
-  name = Sebastien Saunier             # TODO: change this to your name
-  mail = seb@saunier.me                # TODO: change this to your email
-  email = seb@saunier.me               # TODO: change this to your email
+  name = Amandine Dupays
+  mail = amandine.dupays@gmail.com
+  email = amandine.dupays@gmail.com
 
 [github]
-  user = ssaunier                      # TODO: change this to your github username
+  user = adupays
 
 [color]
   branch = auto
